@@ -144,7 +144,7 @@ class _SearchScreenState extends State<SearchScreen> {
           ),),
           Positioned(
             left: 20,
-            top: 350,
+            top: 380,
             child: Container(
               padding: EdgeInsets.all(16),
               width: 170,
@@ -167,7 +167,7 @@ class _SearchScreenState extends State<SearchScreen> {
             ),
           ),
           Positioned(
-              top: 517,
+              top: 560,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
